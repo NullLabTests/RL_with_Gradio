@@ -1,20 +1,14 @@
-  
 # Interactive RL Agent with Gradio  
 This project lets you interact with a Deep Q-Network (DQN) agent using Gradio. You can tweak hyperparameters and visualize training performance.  
 
 ## Installation  
-\`\`\`sh  
 pip install -r requirements.txt  
-\`\`\`  
 
 ## Usage  
-\`\`\`sh  
 python app.py  
-\`\`\`  
 
-## UI with Gradio
-
-![Screenshot](SS.png)
+## UI with Gradio  
+![Screenshot](SS.png)  
 
 ## Features  
 - Adjust hyperparameters (learning rate, epsilon, etc.)  
@@ -26,4 +20,3 @@ python app.py
 - gym  
 - torch  
 - numpy  
-
