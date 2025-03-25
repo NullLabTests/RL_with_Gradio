@@ -12,6 +12,10 @@ pip install -r requirements.txt
 python app.py  
 \`\`\`  
 
+## UI with Gradio
+
+![Screenshot](SS.png)
+
 ## Features  
 - Adjust hyperparameters (learning rate, epsilon, etc.)  
 - Run episodes and visualize results  
